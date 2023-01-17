@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44a075aac97e06b7",
+        "id": "dff70ad2ea15aa82",
         "type": "tabs",
         "children": [
           {
-            "id": "20a7ea5c43cb2141",
+            "id": "6c38402ed6d8c107",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "20a7ea5c43cb2141",
+  "active": "6c38402ed6d8c107",
   "lastOpenFiles": [
+    "git/git用法.md",
+    "CSS/5个常用的CSS单位.md",
     "node/L1-node express.md",
     "README.md",
-    "CSS/5个常用的CSS单位.md",
     "未命名.canvas"
   ]
 }
