@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97b28e4ad541b64d",
+        "id": "3557720802693987",
         "type": "tabs",
         "children": [
           {
-            "id": "ce8d48821721b31e",
+            "id": "409511d449192db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/选择器.md",
+                "file": "功能实现/uniapp全局强制横屏.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/选择器.md",
+                "file": "功能实现/uniapp全局强制横屏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/选择器.md",
+                "file": "功能实现/uniapp全局强制横屏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/选择器.md"
+                "file": "功能实现/uniapp全局强制横屏.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce8d48821721b31e",
+  "active": "409511d449192db0",
   "lastOpenFiles": [
+    "功能实现/uniapp全局强制横屏.md",
+    "git/git用法.md",
     "CSS/一些标签.md",
+    "CSS/选择器.md",
     "CSS/5个常用的CSS单位.md",
     "阿里图标库icon font使用.md",
-    "git/git用法.md",
     "README.md",
     "node/L1-node express.md",
     "git/Pasted image 20230119103507.png",
-    "git/Pasted image 20230119103757.png",
-    "git/Pasted image 20230119103619.png",
-    "未命名.canvas"
+    "git/Pasted image 20230119103757.png"
   ]
 }
