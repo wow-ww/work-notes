@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1065ef52b048a8",
+        "id": "85e8e4b07a3f97f5",
         "type": "tabs",
         "children": [
           {
-            "id": "47d2154c2e13af50",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "298fb4f4e8270fdf",
+            "id": "d85543c91dc2da51",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,17 +138,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "44464c32d05653cb",
+  "active": "d85543c91dc2da51",
   "lastOpenFiles": [
-    "功能实现/uniapp H5 上传csv文件（导入）并获取文件内容.md",
-    "功能实现/uniapp全局强制横屏.md",
-    "功能实现/uniapp H5 导出csv文件.md",
-    "功能实现/uniapp H5 上传文件.md",
-    "CSS/选择器.md",
-    "README.md",
-    "CSS/切图规范.md",
-    "git/git用法.md",
-    "CSS/一些标签.md",
-    "CSS/5个常用的CSS单位.md"
+    "功能实现/uniapp 打包到H5.md",
+    "功能实现/uniapp 关闭安卓和ios侧边滑动返回.md",
+    "功能实现/uniapp 防抖.md",
+    "功能实现/Pasted image 20230221105139.png",
+    "未命名.md",
+    "Pasted image 20230221104823.png",
+    "Pasted image 20230221104734.png",
+    "Pasted image 20230221104302.png",
+    "功能实现/Pasted image 20230221105017.png",
+    "git/Pasted image 20230119103507.png"
   ]
 }
